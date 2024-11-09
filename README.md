@@ -36,7 +36,7 @@ The application will display the encoded digital signal for each technique using
 1. Run the program by executing the following command in the terminal:
 
     ```bash
-    python digisig.py
+    python UyChristianJoshuaLabExer9.py
     ```
 
 2. When prompted, enter the initial level configuration:
@@ -49,7 +49,7 @@ The application will display the encoded digital signal for each technique using
 
 ## Example
 
-    $ python digital_signal_encoder.py
+    $ python UyChristianJoshuaLabExer9.py
     Is the initial level low? (y/n): y
     Enter binary data (e.g., 1011001): 1011001
 
