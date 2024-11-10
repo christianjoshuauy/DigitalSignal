@@ -21,8 +21,8 @@ The application will display the encoded digital signal for each technique using
 1. Clone the repository or download the script file.
    
    ```bash
-   git clone https://github.com/your-username/digital-signal-encoder.git
-   cd digital-signal-encoder
+   git clone https://github.com/christianjoshuauy/DigitalSignal.git
+   cd digitalsignal
     ```
 
 2. Install the required matplotlib package.
